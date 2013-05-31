@@ -23,11 +23,11 @@ SolidCompression=yes
 Name: "english"; MessagesFile: "compiler:Default.isl"
 
 [Files]
-Source: ".\pptTeX.ppa"; DestDir: "{app}"; Flags: ignoreversion uninsrestartdelete
+Source: ".\pptTeX.ppam"; DestDir: "{app}"; Flags: ignoreversion uninsrestartdelete
 ; NOTE: Don't use "Flags: ignoreversion" on any shared system files
 
 [Registry]
-Root: HKCU; Subkey: "Software\Microsoft\Office\{code:ver}\PowerPoint\AddIns\{code:app}"; ValueType: string; ValueName: "Path"; ValueData: "{app}\pptTeX.ppa"
+Root: HKCU; Subkey: "Software\Microsoft\Office\{code:ver}\PowerPoint\AddIns\{code:app}"; ValueType: string; ValueName: "Path"; ValueData: "{app}\pptTeX.ppam"
 Root: HKCU; Subkey: "Software\Microsoft\Office\{code:ver}\PowerPoint\AddIns\{code:app}"; ValueType: dword; ValueName: "AutoLoad"; ValueData: 1
 Root: HKCU; Subkey: "Software\VB and VBA Program Settings\{code:app}"; Flags: uninsdeletekey
 Root: HKCU; Subkey: "Software\Microsoft\Office\{code:ver}\PowerPoint\AddIns\{code:app}"; Flags: uninsdeletekey
