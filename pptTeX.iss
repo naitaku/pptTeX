@@ -7,11 +7,11 @@
 ; (To generate a new GUID, click Tools | Generate GUID inside the IDE.)
 AppId={{D116D76E-F7C6-48E9-905B-CB4D3295C6FC}
 AppName=pptTeX
-AppVerName={code:app} Ver.1.3
+AppVerName={code:app} Ver.1.4
 AppPublisher=Takuto NAITO
-AppPublisherURL=http://d.hatena.ne.jp/naitaku/
-AppSupportURL=http://d.hatena.ne.jp/naitaku/
-AppUpdatesURL=http://d.hatena.ne.jp/naitaku/
+AppPublisherURL=http://naitaku.github.io/pptTeX/
+AppSupportURL=http://naitaku.github.io/pptTeX/
+AppUpdatesURL=http://naitaku.github.io/pptTeX/
 DefaultDirName={pf}\{code:app}
 DefaultGroupName={code:app}
 DisableProgramGroupPage=no
